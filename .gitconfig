@@ -1,0 +1,27 @@
+[user]
+	name = Onur Karaman
+	email = xx
+[core]
+	editor = vim
+[github]
+	user = onurkaraman
+[alias]
+	st = status
+[color]
+	branch = auto
+	decorate = auto
+	diff = auto
+	status = auto
+[color "decorate"]
+	HEAD = cyan
+	branch = green
+	remoteBranch = red
+[color "diff"]
+	meta = yellow
+	frag = magenta
+	old = red
+	new = green
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
